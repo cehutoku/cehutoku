@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cehutoku
 - 👀 I’m interested in Data and object oriented
 - 🌱 I’m currently learning Python and Soap
-- 💞️ I’m looking to collaborate on Enterteinment industry
+- 💞️ I’m looking to collaborate on Entertainment industry
 - 📫 How to reach me you could wite me cetoku@gmail.com
   
 
